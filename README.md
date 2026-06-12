@@ -61,6 +61,6 @@ In other words, attention by itself tends to make everything look the same.
 
 ##  Personal Note
 I like how this paper “talks back” to the famous Transformer paper.  
-It reminds me that bold ideas need careful checks: attention is powerful, but it needs friends (skip connections + MLPs) to stay useful.  
+It reminds me that bold ideas need careful checks: attention is powerful, but it needs somethings (skip connections + MLPs) to stay useful.  
 For me, it’s a lesson in balance — even the smartest mechanism collapses without the right support.
 
